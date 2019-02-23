@@ -1,2 +1,2 @@
-# comp2406-git-tutorial-base-code
-Base Code for the Git Tutorial in COMP2406
+# COMP 2406 Tutorial
+Fork this repository and continue on with the tutorial
